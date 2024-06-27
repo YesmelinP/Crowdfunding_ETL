@@ -19,6 +19,9 @@ entity_relationship_diagram.png: A PNG file of the Entity Relationship Diagram, 
 #### ETL_Mini_Project_YPerdomo_ALor.ipynb
 This Jupyter Notebook file contains the Python code used to perform the ETL process and create four CSV files.
 
+#### crowdfunding_db_PostgreSQL.png
+Overview of the crowdfunding_db in PostgreSQL.
+
 #### Resources
 This directory contains:
 CSV files: The four CSV files (campaign, contacts, category, and subcategory) created during the ETL process.
